@@ -5,7 +5,6 @@
 This project aims to create a website showcasing the various dishes offered by a startup restaurant. The website should include an online service for selling the dishes over the internet to customers beyond its location. Additionally, it should have an administration interface for managing the different dishes, intended for the administrator of the restaurant.
 
 
-**Quelques Capture du site web**
 
 **Home page**
 
