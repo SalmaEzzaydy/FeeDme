@@ -13,8 +13,8 @@ Ce projet consiste à créer un site web qui expose les différents plats propos
 **L'architecture Front-end VueJs**
 ![c](https://github.com/SalmaEzzaydy/FeeDme/assets/153545273/3a689895-eeb0-40b3-8888-688a20357fe1)
 
+
 **Capture du site web**
-![c](https://github.com/SalmaEzzaydy/FeeDme/assets/153545273/ff51920a-537c-4517-bb79-2b739c90a0e9)
 
 ![c](https://github.com/SalmaEzzaydy/FeeDme/assets/153545273/3a9fd7df-09ba-4d92-afdd-ee188d8bfaba)
 
