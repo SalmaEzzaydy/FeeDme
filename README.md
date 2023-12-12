@@ -17,7 +17,7 @@ Ce projet consiste à créer un site web qui expose les différents plats propos
 ![c](https://github.com/SalmaEzzaydy/FeeDme/assets/153545273/3a689895-eeb0-40b3-8888-688a20357fe1)
 
 
-**Capture du site web**
+**Quelques Capture du site web**
 
 
 ![c](https://github.com/SalmaEzzaydy/FeeDme/assets/153545273/b4c6902c-e95a-4c5f-a694-e2b1fe7a45d5)
