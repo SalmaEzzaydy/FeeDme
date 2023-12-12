@@ -2,7 +2,7 @@
 
 **Objectif**
 
-Ce projet consiste à créer un site web qui expose les différents plats proposés par un start up restaurant, et ce site doit être muni d'un service online permettant la vente via internet à une tranche loin de son emplacement ainsi qu’une interface de gestion des différents plats pour l’administrateur.
+This project aims to create a website showcasing the various dishes offered by a startup restaurant. The website should include an online service for selling the dishes over the internet to customers beyond its location. Additionally, it should have an administration interface for managing the different dishes, intended for the administrator of the restaurant.
 
 
 **Quelques Capture du site web**
@@ -15,11 +15,11 @@ Ce projet consiste à créer un site web qui expose les différents plats propos
 
 ![c](https://github.com/SalmaEzzaydy/FeeDme/assets/153545273/3a9fd7df-09ba-4d92-afdd-ee188d8bfaba)
 
-**Achat d'un plat**
+**buy a meal**
 
 ![c](https://github.com/SalmaEzzaydy/FeeDme/assets/153545273/fe93c6f0-39f6-4dd9-8210-90b321138cd0)
 
-voila une présentation contenant le detail sur la conception et la realisation:
+Here is a presentation containing details about the design and implementation of the website
 
 [FeeDmePresentation.pdf](https://github.com/SalmaEzzaydy/FeeDme/files/13648959/FeeDmePresentation.pdf)
 
